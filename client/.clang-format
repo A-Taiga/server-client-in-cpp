@@ -1,0 +1,14 @@
+﻿---
+AccessModifierOffset: '0'
+AlignConsecutiveMacros: 'true'
+AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'false'
+AlignEscapedNewlines: Left
+AllowShortCaseLabelsOnASingleLine: 'true'
+BreakBeforeBraces: Allman
+BreakConstructorInitializers: BeforeComma
+IndentWidth: '4'
+TabWidth: '4'
+UseTab: ForIndentation
+
+...

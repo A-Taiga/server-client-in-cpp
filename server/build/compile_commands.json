@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/anthony/Desktop/server-client/server/build",
+  "command": "/usr/bin/clang++    -Wall -Wextra -Werror -Wpedantic -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++17 -o CMakeFiles/server.dir/main.cpp.o -c /Users/anthony/Desktop/server-client/server/main.cpp",
+  "file": "/Users/anthony/Desktop/server-client/server/main.cpp"
+}
+]
