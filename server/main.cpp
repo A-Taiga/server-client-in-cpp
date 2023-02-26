@@ -119,8 +119,8 @@ int main(int argc, char *argv[]) {
     std::cout << GREEN << s << RESET << std::endl;
 
     std::string m = GREEN;
-    m += "nutz\n";
-    n = write(new_socket_file_descriptor, &m, sizeof(m));
+//     m += "nutz\n";
+//     n = write(new_socket_file_descriptor, &m, sizeof(m));
 
     }
 
