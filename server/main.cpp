@@ -118,7 +118,7 @@ int main(int argc, char *argv[]) {
     std::string s(reinterpret_cast<char*>(buffer.data()), buffer.size());
     std::cout << GREEN << s << RESET << std::endl;
 
-    std::string m = GREEN;
+//     std::string m = GREEN;
 //     m += "nutz\n";
 //     n = write(new_socket_file_descriptor, &m, sizeof(m));
 
